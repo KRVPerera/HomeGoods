@@ -1,0 +1,59 @@
+org_name = "rukshanp"
+version = "0.1.0"
+lockfile_version = "1.0.0"
+ballerina_version = "slp4"
+
+[[imports."rukshanp/StorageService:0.1.0"]]
+org_name = "ballerina"
+name = "io"
+version = "0.5.0"
+
+[[imports."ballerina/system:0.6.0"]]
+org_name = "ballerina"
+name = "io"
+version = "0.5.0"
+
+[[imports."ballerina/java.jdbc:0.5.0"]]
+org_name = "ballerina"
+name = "sql"
+version = "0.5.0"
+
+[[imports."ballerina/sql:0.5.0"]]
+org_name = "ballerina"
+name = "config"
+version = "1.0.0"
+
+[[imports."ballerina/sql:0.5.0"]]
+org_name = "ballerina"
+name = "io"
+version = "0.5.0"
+
+[[imports."ballerina/sql:0.5.0"]]
+org_name = "ballerina"
+name = "time"
+version = "1.0.1"
+
+[[imports."rukshanp/Storage:0.1.0"]]
+org_name = "ballerina"
+name = "io"
+version = "0.5.0"
+
+[[imports."rukshanp/Storage:0.1.0"]]
+org_name = "ballerina"
+name = "sql"
+version = "0.5.0"
+
+[[imports."rukshanp/Storage:0.1.0"]]
+org_name = "ballerina"
+name = "java.jdbc"
+version = "0.5.0"
+
+[[imports."ballerina/config:1.0.0"]]
+org_name = "ballerina"
+name = "stringutils"
+version = "0.5.0"
+
+[[imports."ballerina/config:1.0.0"]]
+org_name = "ballerina"
+name = "system"
+version = "0.6.0"
